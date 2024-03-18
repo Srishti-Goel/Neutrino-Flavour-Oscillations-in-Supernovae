@@ -5,8 +5,12 @@
 - Find the code that uses a simpler bound on the F and alpha in file "fastModes_redone copy.ipynb"
 ## Parameters Used
 The code in the x-flavour included FFC detections uses 5 parameters:  
+<!--
 $$ \alpha = \frac{I_0^{\bar{\nu_e}} - I_0^{\bar{\nu_x}}}  {I_0^{\nu_e} - I_0^{\nu_x}} $$ 
 $$ F_{\nu_e} = \frac {I_1^{\nu_e}}  {I_o^{\nu_e}} $$  
 $$ F_{\nu_x} = \frac {I_1^{\nu_x}}  {I_o^{\nu_x}} $$    
 $$ F_{\bar{\nu_e}} = \frac {I_1^{\bar{\nu_e}}}  {I_o^{\bar{\nu_e}} $$  
-$$ F_{\bar{\nu_x}} = \frac {I_1^{\bar{\nu_x}}}  {I_o^{\bar{\nu_x}} $$  
+$$ F_{\bar{\nu_x}} = \frac {I_1^{\bar{\nu_x}}}  {I_o^{\bar{\nu_x}} $$   
+
+-->
+![image](https://github.com/Srishti-Goel/Neutrino-Flavour-Oscillations-in-Supernovae/assets/43054441/c85a0471-4a81-4a7e-865c-0ac479b1366a)
