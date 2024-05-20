@@ -76,7 +76,7 @@ def plot_reduced_data(x_reduced, y, x_axis_idx, y_axis_idx, reduction_name):
     fig = plt.figure(figsize=(6,6))
     plt.scatter(x_reduced[:, x_axis_idx], x_reduced[:, y_axis_idx], c=y, cmap=plt.cm.Set1, edgecolor='k')
     plt.xlabel(reduction_name + ' Component ' + str(x_axis_idx + 1))
-    plt.ylabel(reduction_name + ' Component ' + str(x_axis_idx + 1))
+    plt.ylabel(reduction_name + ' Component ' + str(y_axis_idx + 1))
     plt.title(reduction_name + ' Dimensionality Reduction')
     plt.show()
 
